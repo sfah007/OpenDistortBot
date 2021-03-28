@@ -8,7 +8,7 @@ import os
 from PIL import Image
 import random
 
-TOKEN = "ENTER YOUR TOKEN"
+TOKEN = "1716270816:AAFS8kCt6zFs4uQkZjgZmPUwfamXNDCrxpE"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
